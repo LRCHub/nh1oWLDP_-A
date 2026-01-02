@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shiny",
+  "base_artist": "明透",
+  "createdAt": "2026-01-02T07:27:06.672994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shiny & New",
+      "artist": "Mayer Hawthorne",
+      "has_synced": false,
+      "path": "select/01_Shiny_&_New_Mayer_Hawthorne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shiny",
+      "artist": "Berlin",
+      "has_synced": false,
+      "path": "select/02_Shiny_Berlin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Changes - Shiny Objects Vocal Remix",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/03_Changes_-_Shiny_Objects_Vocal_Remix_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Changes (Shiny Objects Vocal Remix)",
+      "artist": "Dirty Vegas",
+      "has_synced": false,
+      "path": "select/04_Changes_(Shiny_Objects_Vocal_Remix)_Dirty_Vegas.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clash (Slash Remix by Shiny Mob)",
+      "artist": "Caravan Palace",
+      "has_synced": false,
+      "path": "select/05_Clash_(Slash_Remix_by_Shiny_Mob)_Caravan_Palace.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shiny",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/06_Shiny_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shiny - From \"Moana\"/Soundtrack Version",
+      "artist": "Jemaine Clement",
+      "has_synced": true,
+      "path": "select/07_Shiny_-_From__Moana_Soundtrack_Version_Jemaine_Clement.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shiny",
+      "artist": "Jemaine Clement",
+      "has_synced": true,
+      "path": "select/08_Shiny_Jemaine_Clement.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shiny (Demo)",
+      "artist": "Lin-Manuel Miranda",
+      "has_synced": true,
+      "path": "select/09_Shiny_(Demo)_Lin-Manuel_Miranda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shiny (demo)",
+      "artist": "Lin‐Manuel Miranda",
+      "has_synced": true,
+      "path": "select/10_Shiny_(demo)_Lin‐Manuel_Miranda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shiny Cage",
+      "artist": "The Dukes of Stratosphear",
+      "has_synced": true,
+      "path": "select/11_Shiny_Cage_The_Dukes_of_Stratosphear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shiny Happy People",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/12_Shiny_Happy_People_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shiny Happy People",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/13_Shiny_Happy_People_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shiny Happy People 1 (Demo)",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/14_Shiny_Happy_People_1_(Demo)_R.E.M..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shiny Happy People 2 (Demo)",
+      "artist": "R.E.M.",
+      "has_synced": false,
+      "path": "select/15_Shiny_Happy_People_2_(Demo)_R.E.M..txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shiny and Warm",
+      "artist": "Goldfrapp",
+      "has_synced": false,
+      "path": "select/16_Shiny_and_Warm_Goldfrapp.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bright Shiny Lights",
+      "artist": "Patrick Watson",
+      "has_synced": true,
+      "path": "select/17_Bright_Shiny_Lights_Patrick_Watson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shiny",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_Shiny_明透.txt"
+    }
+  ]
+}
